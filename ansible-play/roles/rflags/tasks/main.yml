@@ -1,0 +1,7 @@
+---
+# Deploy Red Team flags 
+- name: Create file in directories
+  lineinfile:
+    create: yes
+    line: "{{ rflags_vms[inventory_hostname]['key'] }}"
+    path: "{{ rflags_vms[inventory_hostname]['file'] }}"

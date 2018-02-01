@@ -1,0 +1,302 @@
+rflags_vms:
+  vega.team1.ists:
+    key: "358cc7acbdcdbb434e680c6fe9fdd517"
+    file: "/usr/share/int0"
+  crucis.team1.ists:
+    key: "76e77dfe92c81144327953f3b910830c"
+    file: "/usr/share/int0"
+  persei.team1.ists:
+    key: "2e0396b39f9894b7016604c4052e2324"
+    file: "/usr/share/int0"
+  luna.team1.ists:
+    key: "4a645e8037019e592cacbf157789a4fc"
+    file: "/usr/share/int0"
+  pegasi.team1.ists:
+    key: "21c899b67446a9081cae94062433024c"
+    file: "/usr/share/int0"
+  sirius.team1.ists:
+    key: "81b82d605832492ed74cb27f2a1a1230"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team1.ists:
+    key: "4d592eb116fde3f4a5d777c088b44fc2"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team1.ists:
+    key: "9f159a95cefc8fd660a5e567ac9b8e97"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team1.ists:
+    key: "84d0ac7b8dab0c9130f01be71590b626"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team2.ists:
+    key: "a0799205f866aaea8e558b77c9546a08"
+    file: "/usr/share/int0"
+  crucis.team2.ists:
+    key: "53af35feed29adadf0ebf2206675aceb"
+    file: "/usr/share/int0"
+  persei.team2.ists:
+    key: "2c6a681fc032f5a5566d1cca2198d6bd"
+    file: "/usr/share/int0"
+  luna.team2.ists:
+    key: "cdd0fc47f6d9c81972187633b77a5995"
+    file: "/usr/share/int0"
+  pegasi.team2.ists:
+    key: "610112b0cf615200e22aee68ffddf65a"
+    file: "/usr/share/int0"
+  sirius.team2.ists:
+    key: "2e1831de7d05dbe3ad169ae2eeb45d47"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team2.ists:
+    key: "04c9da58c3b7fc34d1dbd859cb12345c"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team2.ists:
+    key: "1fb2fe02afd2917da50cf18a981d4daf"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team2.ists:
+    key: "f3f2535bf38e79bc03b16cdfc9c75688"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team3.ists:
+    key: "2f7684dec9bac00ae15b3b0a8a16d0d2"
+    file: "/usr/share/int0"
+  crucis.team3.ists:
+    key: "41d73ad444271c00c11f15f57a42cacb"
+    file: "/usr/share/int0"
+  persei.team3.ists:
+    key: "711164b8edcd8e2f19e84b9d4b8ecf38"
+    file: "/usr/share/int0"
+  luna.team3.ists:
+    key: "8d3f1e100494af7eb3444a42d55d3ef8"
+    file: "/usr/share/int0"
+  pegasi.team3.ists:
+    key: "b14352c80ff4980ca976693860939373"
+    file: "/usr/share/int0"
+  sirius.team3.ists:
+    key: "103cf501ed51af64f5ed7bfdd433ce99"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team3.ists:
+    key: "9b46caddcf3efa1fb86135ac5e2fe19c"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team3.ists:
+    key: "df55b947b3b203b78f50aa8cb9af096b"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team3.ists:
+    key: "e7b7f5d50f18da3b4701bdf4256f7a46"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team4.ists:
+    key: "19618b49f48de5750bb18ef7fd6c2f3a"
+    file: "/usr/share/int0"
+  crucis.team4.ists:
+    key: "c9a123dafce84bfa2b6e843777361344"
+    file: "/usr/share/int0"
+  persei.team4.ists:
+    key: "fa993285ef970ec03a0c6f7948ef40e2"
+    file: "/usr/share/int0"
+  luna.team4.ists:
+    key: "bace853ca7a6924bb81d7d8c677ba84d"
+    file: "/usr/share/int0"
+  pegasi.team4.ists:
+    key: "a97d56ead65d56bd67b898407b0144b0"
+    file: "/usr/share/int0"
+  sirius.team4.ists:
+    key: "50d9c1460373511fddbdd8182cbc30ca"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team4.ists:
+    key: "fd596b3c86657080b941498481b5d245"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team4.ists:
+    key: "c72358b96b7128b8c647e227b9d76483"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team4.ists:
+    key: "79e1d29abe1c80ddc4a416659e416372"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team5.ists:
+    key: "2e25ddc538f2bf8c9a55a1d6ace4cf0b"
+    file: "/usr/share/int0"
+  crucis.team5.ists:
+    key: "d927fcbfe306f45cd5cb1209d94fcddf"
+    file: "/usr/share/int0"
+  persei.team5.ists:
+    key: "7ba8d8757a8f2c43a3bfba9ed6b24d11"
+    file: "/usr/share/int0"
+  luna.team5.ists:
+    key: "36b37591ce19b3fcac8f6b7f91c05051"
+    file: "/usr/share/int0"
+  pegasi.team5.ists:
+    key: "959b0fb425d1c3f896b9f08ef2b1283d"
+    file: "/usr/share/int0"
+  sirius.team5.ists:
+    key: "f6dae44d585755e76f5c754ee40194fc"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team5.ists:
+    key: "fd4b8056212a820d40be4be83fceb0cf"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team5.ists:
+    key: "36b4f9dc5eafbd8edc083f75872869d0"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team5.ists:
+    key: "2e099318da0625d210661645edae6f50"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team6.ists:
+    key: "1962282361452c6f8907fbb53db09ae5"
+    file: "/usr/share/int0"
+  crucis.team6.ists:
+    key: "daf9cdf36a75f6ef81968076b978c34f"
+    file: "/usr/share/int0"
+  persei.team6.ists:
+    key: "9ab6b261ee561fd0b5a2214b966cf7d2"
+    file: "/usr/share/int0"
+  luna.team6.ists:
+    key: "cb6cddc18c12b99de954a48c0d6ff0f0"
+    file: "/usr/share/int0"
+  pegasi.team6.ists:
+    key: "782f61d16a103646ac4c333060fc12dc"
+    file: "/usr/share/int0"
+  sirius.team6.ists:
+    key: "17aad3eb80bd0e14370272b39549da73"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team6.ists:
+    key: "d8ba9a99374cba79f7e22efe32a19765"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team6.ists:
+    key: "1385427d2201c68b4d150c80d5140485"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team6.ists:
+    key: "277246a94b6bb015279ea8e726ddf374"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team7.ists:
+    key: "d21b30a06fbb72ac58d09916697cc903"
+    file: "/usr/share/int0"
+  crucis.team7.ists:
+    key: "49b595db062c6a92af9e4bf900a85129"
+    file: "/usr/share/int0"
+  persei.team7.ists:
+    key: "c5f573f40fecabd4cfe392ba25848eae"
+    file: "/usr/share/int0"
+  luna.team7.ists:
+    key: "61aa92262ff269e3f78afe59bcfc8686"
+    file: "/usr/share/int0"
+  pegasi.team7.ists:
+    key: "11a364f4fc704b3a1409aa81dd1f9e0a"
+    file: "/usr/share/int0"
+  sirius.team7.ists:
+    key: "cff3a1df6e521fc7e96b71a90670caf7"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team7.ists:
+    key: "9184ffe7e8a02374efba28b475d00748"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team7.ists:
+    key: "6e0d47c249dce071282fafec4fab1060"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team7.ists:
+    key: "6611bc50bfa096ffaf52788913ee973f"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team8.ists:
+    key: "4073f21aa0ab23bdd9ca0440f335861a"
+    file: "/usr/share/int0"
+  crucis.team8.ists:
+    key: "6fac2a74a19741aaabd3609c5bae048b"
+    file: "/usr/share/int0"
+  persei.team8.ists:
+    key: "edc4d06b34f6a72268ec0ced576bd9d4"
+    file: "/usr/share/int0"
+  luna.team8.ists:
+    key: "c1b1c4aa04b54dd2eded9bd8d365d30b"
+    file: "/usr/share/int0"
+  pegasi.team8.ists:
+    key: "792085e3cf6a91e2046d5a814a0346c6"
+    file: "/usr/share/int0"
+  sirius.team8.ists:
+    key: "458fdff45ef5caa3667a2d2b91fe9918"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team8.ists:
+    key: "244441ef25c14ed82c129dacfde46e80"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team8.ists:
+    key: "8207dde2dc0648064ba81e704cc71a8c"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team8.ists:
+    key: "1a1dde47c5282dc3a2a1fe9fea6e8d64"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team9.ists:
+    key: "fa0f963653029539ea258ae8840584fc"
+    file: "/usr/share/int0"
+  crucis.team9.ists:
+    key: "e55ab2dafbf533937df12a5a792eb431"
+    file: "/usr/share/int0"
+  persei.team9.ists:
+    key: "ec7a4c5ab6e3f2c25f91cdd614bc2bb3"
+    file: "/usr/share/int0"
+  luna.team9.ists:
+    key: "80835518d69b4fb17dde965ad509f695"
+    file: "/usr/share/int0"
+  pegasi.team9.ists:
+    key: "cf8cf30ef5bbd6621aa6e11acfa2fb57"
+    file: "/usr/share/int0"
+  sirius.team9.ists:
+    key: "aeb754429c5b40d79c06dd0f7ba58e8b"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team9.ists:
+    key: "528c7ac7591a5454a4da9216acb18894"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team9.ists:
+    key: "74e525d9fe04c77f01200142fcdfa13e"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team9.ists:
+    key: "0c75507a097dccd6d923bc2b83eaac69"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team10.ists:
+    key: "3cda6aca32b711fb895d1ba2b18029b5"
+    file: "/usr/share/int0"
+  crucis.team10.ists:
+    key: "3841ee3a896bd64aa2b1901a3d4ed80a"
+    file: "/usr/share/int0"
+  persei.team10.ists:
+    key: "25af0d0cb71a4736071b68246cc69d3c"
+    file: "/usr/share/int0"
+  luna.team10.ists:
+    key: "3c51efe307595fcac2ebf91a27235733"
+    file: "/usr/share/int0"
+  pegasi.team10.ists:
+    key: "9ff8c375f54637c53c7ab5a132313fe5"
+    file: "/usr/share/int0"
+  sirius.team10.ists:
+    key: "8a9e34e0a1996054ce927d58323a09c0"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team10.ists:
+    key: "7db1a1673404d1871091bef140ec3a76"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team10.ists:
+    key: "d6ab5bb64e81cdce78da73215222329b"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team10.ists:
+    key: "04c2e6a265a666cb75ac696ea0764b16"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  vega.team11.ists:
+    key: "3e68d3b1ab7658845425646eb8915273"
+    file: "/usr/share/int0"
+  crucis.team11.ists:
+    key: "2958829df4cac575c9777acdc1ac11b3"
+    file: "/usr/share/int0"
+  persei.team11.ists:
+    key: "a00a6e0258d85bfe6ba1b7160de350a9"
+    file: "/usr/share/int0"
+  luna.team11.ists:
+    key: "e24b8645f01c160915a6c78b48bd69e0"
+    file: "/usr/share/int0"
+  pegasi.team11.ists:
+    key: "bd23d56b63f7ff92d22b0615972fc31a"
+    file: "/usr/share/int0"
+  sirius.team11.ists:
+    key: "30141d181ad9e61dc609ad9c0c72bae4"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  tauri.team11.ists:
+    key: "7dbeead524835f7c5b801c41a76a5637"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  sol.team11.ists:
+    key: "b8fa6009ea390aa8988800275599ae6b"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+  wolf.team11.ists:
+    key: "202bb2949506ba2bb272d5b0028bbdea"
+    file: "C:\\Windows\\appcompat\\AppComData.dat"
+# localhost:
+#   key: "202bb2949506ba2bb272d5b0028bbdea"
+#   file: "/usr/share/int0"
+
