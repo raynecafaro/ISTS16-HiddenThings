@@ -4,11 +4,12 @@
     ansible_os_family: Debian
   when: ansible_distribution == "Parrot GNU/Linux"
 
-- name: Create file in /usr/share
-  copy:
-    content: "{{ rflags_vms[inventory_hostname]['key'] }}"
-    dest: "{{ rflags_vms[inventory_hostname]['file'] }}"
-  when: (ansible_os_family == "Debian") or (ansible_os_family == "FreeBSD") or (ansible_os_family == "RedHat") or (ansible_os_family == "Archlinux")
+- name: Create file in /usr/share/
+  lineinfile:
+    create: yes
+    line: "{{ rflags_vms[inventory_hostname]['key'] }}"
+    path: "{{ rflags_vms[inventory_hostname]['file'] }}"
+  when: (ansible_os_family == "Debian") or (ansible_os_family == "FreeBSD") or (ansible_os_family == "RedHat")
 
 - name: Create file in C:\\Windows\\appcompat
   win_copy:

@@ -1,5 +1,0 @@
-rflags_vms:
-  localhost:
-    key: "358cc7acbdcdbb434e680c6fe9fdd517"
-    file: "/dev/int0"
-

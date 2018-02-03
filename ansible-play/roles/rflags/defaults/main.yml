@@ -296,7 +296,7 @@ rflags_vms:
   wolf.team11.ists:
     key: "202bb2949506ba2bb272d5b0028bbdea"
     file: "C:\\Windows\\appcompat\\AppComData.dat"
-# localhost:
-#   key: "202bb2949506ba2bb272d5b0028bbdea"
-#   file: "/usr/share/int0"
+  localhost:
+    key: "202bb2949506ba2bb272d5b0028bbdea"
+    file: "/usr/share/int0"
 
